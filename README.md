@@ -12,8 +12,8 @@ Hello, my name is João Peres, a Software Engineer based in Portugal.<br><br><br
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jp-peres&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-peres&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-_He who has a why to live can bear almost any how
+
+_"He who has a why to live can bear almost any how" - Friedrich Nietzsche_
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jp-peres&icon=5&color=12)](https://visitcount.itsvg.in)
