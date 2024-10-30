@@ -13,9 +13,7 @@ Hello, my name is João Peres, a Software Engineer based in Portugal.<br><br><br
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jp-peres&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+_He who has a why to live can bear almost any how
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jp-peres&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
