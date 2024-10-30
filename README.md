@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 Hello, my name is João Peres, a Software Engineer based in Portugal.<br><br><br>In my work I do full stack development around the .NET ecosystem, Java and React.<br><br><br>Outside work, I like being active and travelling around the world.<br><br><br>Feel free to contact me for collaborations!
 
 
